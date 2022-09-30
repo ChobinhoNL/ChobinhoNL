@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChobinhoNL
 - 👀 I’m interested in a bunch of different stuff
-- 🌱 I’m currently a junior Data Engineer
+- 🌱 I’m currently a junior Data Engineer @ Veneficus
 
 <!---
 ChobinhoNL/ChobinhoNL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
